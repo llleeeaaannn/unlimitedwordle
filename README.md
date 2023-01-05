@@ -1,2 +1,2 @@
-# unlimitedwordle
-Version of Wordle which allows user to play as many times as they want by simply refreshing the page
+# Unlimited Wordle
+> A Wordle clone which allows users to play an unlimited amount of times each day with a new 'Wordle' provided on each turn.
